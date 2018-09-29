@@ -13,4 +13,5 @@ set_color normal
 
 ```
 
-PS: normally `fish_prompt` exits in `~/.config/fish/functions/fish_prompt.fish`. If not present you can create one.
+PS: normally `fish_prompt` exits in `~/.config/fish/functions/fish_prompt.fish`. If not present you can create `fish_prompt` function and add these lines.
+If already exist append above lines in the `fish_prompt` function.
